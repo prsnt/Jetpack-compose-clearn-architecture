@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jetpack-compose-clearn-architecture</string>
+    <string name="logo">Logo</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">LOGIN</string>
+</resources>
