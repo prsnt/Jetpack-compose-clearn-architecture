@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356223719103",
+    "project_id": "compose-architecture",
+    "storage_bucket": "compose-architecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356223719103:android:bf10025fd92ee35bffd80a",
+        "android_client_info": {
+          "package_name": "com.example.jetpack_compose_clearn_architecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOLAr0z_KrTHjKx_Tr_4_nDXcGRhbuC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
